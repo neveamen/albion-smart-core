@@ -1,7 +1,8 @@
 # 🛡️ Albion Smart Core [v2]
 
 Универсальный, полностью неуязвимый скрипт автоматизации рекрутинга и защиты от автоматических мутов для **Albion Online**, написанный на современном движке **AutoHotkey v2**.
-<img width="554" height="432" alt="image" src="https://github.com/user-attachments/assets/aaeea81d-35be-4ca7-ae22-60dab28b195f" />
+
+![Uploading image.png…]()
 
 ## 🚀 Основные Функции
 
