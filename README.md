@@ -2,7 +2,8 @@
 
 Универсальный, полностью неуязвимый скрипт автоматизации рекрутинга и защиты от автоматических мутов для **Albion Online**, написанный на современном движке **AutoHotkey v2**.
 
-![Uploading image.png…]()
+<img width="554" height="432" alt="image" src="https://github.com/user-attachments/assets/e7bcb365-1c44-4e4c-9632-d7eb771f2985" />
+
 
 ## 🚀 Основные Функции
 
